@@ -10,6 +10,12 @@
 - [🌟 주요 기능](#function)
 - [🧑🏻‍💻 프로젝트 멤버](#member)
 
+
+## <span id="wiki">💡 개발위키</span>
+
+[✅ UnivCabi FE 개발위키 바로가기](https://funky-brochure-236.notion.site/UnivCabi-3307f2b9ae928009bd24e3f345418f2c)
+
+
 ## <span id="introduction">📝 프로젝트 소개</span>
 - **프로젝트 기간** : 2024.09 ~ 2025.04
 - **목적**
